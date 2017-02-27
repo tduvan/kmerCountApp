@@ -44,4 +44,5 @@ The algorithm includes two parameters that are not open to direct alteration by 
     
 The values can be altered for getting better performance on different system configurations. If the RAM capacity is low,
 the second parameter should be kept as small as possible. This will allow the code work on low RAM capacity while compromising process speed.
-========================================================================================================================
+
+
