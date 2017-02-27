@@ -34,6 +34,7 @@ Ex/
 kmer_count_bloomfilt.py
 
 The algorithm includes two parameters that are not open to direct alteration by the user:
+(HENCE THE PARAMETERS CAN BE MODIFIED WITHIN THE CODE FOR FURTHER OPTIMIZING THE APPLICATION)
 
     - Dictionary Output Size (600000) : This value sets the number of items to be retrieved from the database when
     merging with the dictionary in each iteration the dictionary fills up.
