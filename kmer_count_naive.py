@@ -1,7 +1,3 @@
-# This code contains the answer for the coding challenge question presented by
-# SEVEN BRIDGES GENOMICS Biyoteknoloji A.Ş for the second phase of the recruitment
-# process.
-
 """Kmer Counting Tool
 
 Supports Python 3.x (has not been tested with older versions)
